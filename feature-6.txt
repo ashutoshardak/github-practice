@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 
 this is a latest feature
 
 under the devlapment by ashu
 
+=======
+this is a leter 
+>>>>>>> b3a738b1ffde5130d4e6e2449ead6ee1383a5f9d

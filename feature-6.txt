@@ -1,1 +1,9 @@
+<<<<<<< Updated upstream
 this is a rater feature
+=======
+this is a latest featur
+
+bhot sa ra kam kar raha hu
+
+adha adura kam karta hu
+>>>>>>> Stashed changes
